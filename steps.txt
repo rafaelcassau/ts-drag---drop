@@ -1,0 +1,13 @@
+creating a new project
+
+1 - npm init
+2 - npm install -save-dev lite-server
+3 - add lite-server under the package.json scripts dict
+4 - tsc --init
+5 - In another tab use the "tsc -w" to compile the .ts in watch mode
+5 - npm start
+
+building it locally from GH
+
+1 - clone the project
+2 - npm install
